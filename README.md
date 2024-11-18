@@ -20,7 +20,7 @@ For a quick demonstration of the app's features, check out the video below:
 - **Libraries:** Plotly, Pandas
 - **Cloud Services:** Google Cloud Run, Google Cloud Scheduler, Google Cloud Storage
 
-## 🌍 Web Scraping
+## 📊 Data Sources
 Data is scraped from various sources using Python libraries like `requests` and `BeautifulSoup`. The scraping scripts are hosted in separate repositories:
   - [Wikipedia Space Scraper](https://github.com/Tanguy9862/Wikipedia_Space_Scraper)
   - [Next Launch Scraper](https://github.com/Tanguy9862/Next-Launch-Scraper)
